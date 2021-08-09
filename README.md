@@ -22,12 +22,15 @@ This project will consist of three steps:
 
 ### Compiling, Training, and Evaluating the Model
 1. How many neurons, layers, and activation funcations did you select for your neural network model, and why?
+
 The model was made with input features and two hidden layers. The first hidden layer has 80 neurons, the second layer has 30 nuerons, and lastly there is an outer layer. There are three activation funcations, one per layer. The 1st and 2nd hidden layers have an activation function of "relu" while the outer layer's activation function is "sigmoid".
 
 2. Were you able to achieve the target model performance?
+
 I was unable to achieve the 75% or above target model performance.
 
 3. What steps did you take to try and increase model performance?
+
 Some steps taken to increase model performance was:
 - Adding hidden layers
 - Changing activation type
